@@ -1,0 +1,84 @@
+h1
+{ color: green;
+    font-size: 100px;
+    font-style: bold ;
+    font-family: sans-serif;
+    padding: 50px;
+    
+}
+
+body 
+{
+    background-color: black;
+}
+
+.Product
+{
+color:red;
+font-size: 25px;
+font-style:bold ;
+font-family: sans-serif;
+padding: 25px;
+}
+
+.pic  
+{
+    color: greenyellow;
+    background-color: darkgrey;
+}
+
+
+
+.table
+{
+    font-style: bold;
+    background-color: black;
+    color: white;
+    width: 100%;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+a{
+    font-style:bold;
+    color: red;
+  }
+  
+  table:hover {
+  
+      background-color: #443C68;
+  }
+  
+  #myHeader
+  { color: violet;
+  font-size:25px;
+  background-color:antiquewhite;
+  font-style:bold;
+  padding: 25px;
+  font-family: sans-serif;
+  
+  }
+  
+  .banks
+  {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  font-style:bold;
+  font-size:20px;
+  font-family: sans-serif;
+  
+  }
+  
+  .Offers
+  {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-style:bold;
+  font-size:20px;
+  font-family:sans-serif;
+  
+  
+  
+  }
